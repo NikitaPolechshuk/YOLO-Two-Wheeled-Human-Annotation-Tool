@@ -55,7 +55,7 @@
   <img src="https://github.com/NikitaPolechshuk/YOLO-Two-Wheeled-Human-Annotation-Tool/raw/main/screenshots/scr_01.png" width="45%" alt="Главное окно программы">
   <img src="https://github.com/NikitaPolechshuk/YOLO-Two-Wheeled-Human-Annotation-Tool/raw/main/screenshots/scr_02.png" width="45%" alt="Пример разметки">
 </div>
-
+желтый прямоугольник - обнаруженный человек, синий - двух колесный транспорт, красный пямоугольник - их объединение
 
 ## 🚀 Установка и запуск
 
